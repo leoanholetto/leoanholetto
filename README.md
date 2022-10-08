@@ -15,3 +15,5 @@ E sou medalhista Olímpico no OBA, com menção honrosa na OMPD.
 Procuro uma oportunidade de praticar todo o conteúdo teórico que tenho visto e que ainda irei ver, e
 além disso, procuro por novos desafios. Tenho muita disposição para aprender e pretendo colaborar
 de maneira expressiva.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Anholetto-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gomes-anholetto-8372a9252/)](https://www.linkedin.com/in/leonardo-gomes-anholetto-8372a9252/) 

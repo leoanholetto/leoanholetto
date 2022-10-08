@@ -4,7 +4,7 @@
 
 Estudo Sistemas de Informações na UNOESTE.
 
-Sou monitor, ministrando treinos de programação competitiva, e ofereço ajuda em conteúdos das matérias para as turmas de Sistemas de Informações, Ciências da Computação e cursos associados a Tecnologia.
+Sou monitor, ministro treinos de programação competitiva, e ofereço ajuda em conteúdos das matérias para as turmas de Sistemas de Informações, Ciências da Computação e cursos associados a Tecnologia.
 
 ### Possuo:
 - Conhecimento intermediário em C, C++, Java, Python. 

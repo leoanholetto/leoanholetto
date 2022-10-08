@@ -18,4 +18,4 @@ de maneira expressiva.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Anholetto-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gomes-anholetto-8372a9252/)](https://www.linkedin.com/in/leonardo-gomes-anholetto-8372a9252/) 
 
-[![Beecrowd Badge](https://img.shields.io/badge/-Beecrowd%20Ranking-00CED1?style=flat-square&logo=URI&logoColor=white&link=[https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1](https://www.beecrowd.com.br/judge/pt/profile/575340)]([https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1)](https://www.beecrowd.com.br/judge/pt/profile/575340)
+[![Beecrowd Badge](https://img.shields.io/badge/-Beecrowd%20Ranking-00CED1?style=flat-square&logo=URI&logoColor=white&link=[https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1](https://www.beecrowd.com.br/judge/pt/profile/575340)]

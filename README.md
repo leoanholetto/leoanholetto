@@ -10,7 +10,7 @@ Sou monitor, ministro treinos de programação competitiva, e ofereço ajuda em 
 - Conhecimento intermediário em C, C++, Java, Python. 
 - Conhecimento básico em Sagemath/Sympy aplicado em Criptografia. 
 
-E sou medalhista Olímpico no OBA, com menção honrosa na OMPD.
+E sou medalhista Olímpico no OBA,finalista da Maratona de Programação e  com menção honrosa na OMPD.
 
 Procuro uma oportunidade de praticar todo o conteúdo teórico que tenho visto e que ainda irei ver, e
 além disso, procuro por novos desafios. Tenho muita disposição para aprender e pretendo colaborar
